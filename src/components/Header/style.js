@@ -3,10 +3,12 @@ import styled from 'styled-components'
 
 
 export const StyledHeader=styled.div`
-    width:100vw;
-    min-height:30vh;
+    max-width:1200px;
+    max-height:20vh;
+    margin:0 auto;
+    padding:2rem;
     background:#272E71;
-    
+
 
 
 `

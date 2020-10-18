@@ -14,6 +14,13 @@ html{
     font-size:66.7%;
     
 }
+button{
+    border:none;
+    
+}
+button:focus,button:active{
+    outline:none;
+}
 body{
     font-size:1.4rem;
     font-family: 'Open Sans', sans-serif;
