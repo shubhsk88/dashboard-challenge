@@ -1,8 +1,9 @@
 import styled from 'styled-components';
 
 export const StyledButton = styled.button`
-  --black:rgba(255,255,255,0.2)
-  padding: 1rem 2rem;
+  --black: rgba(255, 255, 255, 0.2);
+  margin: 2rem;
+  padding: 2rem 2rem;
   color: white;
   background-color: purple;
   border-radius: 10px;
