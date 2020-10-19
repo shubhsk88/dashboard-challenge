@@ -20,6 +20,7 @@ const SettingSchema = Yup.object().shape({
   ),
 });
 const Settings = () => {
+  // eslint-disable-next-line no-unused-vars
   const [data, setData] = useState({
     email: '',
     password: '',
